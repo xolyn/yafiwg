@@ -9,7 +9,7 @@ click here for a [demo](https://xolyn.github.io/file_tree.html)
 ## use
 in cli, execute the following:
 ```bash
-python yawifg <path/to/start>
+python yawifg.py <path/to/start>
 ```
 where `path/to/start` indicates the folder you want to execute a "deep scan" of all files and folders from. Angle brackets imply the optionality.
 
