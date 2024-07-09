@@ -5,9 +5,9 @@
 >
 
 ## demo
-![image](https://github.com/xolyn/yafiwg/assets/118642042/b7eea6ca-5720-4c4a-b2a4-0a862e743a9d)
 
-click here for a [demo](https://xolyn.github.io/file_tree.html)
+<a href="https://xolyn.github.io/file_tree.html"><img src="https://github.com/xolyn/yafiwg/assets/118642042/672ee9b5-fc6b-4664-b2de-91ac2e93132b"></a>
+
 
 ## use
 in cli, execute the following:
