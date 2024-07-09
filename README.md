@@ -18,7 +18,7 @@ where `path/to/start` indicates the folder you want to execute a "deep scan" of 
 ### advantages
 1. Light weight： only 2kB makes it able to run on even the crappiest device
 2. High compatibility： HTML code that removes the fancy styles and properties that are not supported by old browsers. According to [Can I Use](https://caniuse.com/?search=details):
-   > Baseline
+   > ![](https://caniuse.com/img/baseline/baseline-high-light.svg)Baseline
    > 
    > Widely available across major browsers
 3. Clarity and accuracy： Although use simple HTML elements, files' hierarchical relationships are well displayed and easy to understand. Optimized scanning mechanism on nested folders and empty folders.
