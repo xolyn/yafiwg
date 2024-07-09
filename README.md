@@ -1,4 +1,4 @@
-# yawifg
+# yafiwg
 >
 > A simple file index webpage generator for static webpage hosting services like Github Pages, Cloudflare R2,...
 >
