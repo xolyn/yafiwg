@@ -11,9 +11,9 @@ in cli, execute the following:
 ```bash
 python yawifg.py <path/to/start>
 ```
-where `path/to/start` indicates the folder you want to execute a "deep scan" of all files and folders from. Angle brackets imply the optionality.
+where `path/to/start` indicates the folder you want to execute a "deep scan" of all files and folders to begin from. Angle brackets imply the optionality.
 
-**The scanner will automatically ignore the `.git` folder.** (Option to keep it will be added in future version)
+**The scanner will automatically ignore the `.git` folder and files within.** (Option to keep it will be added in future version)
 
 ### advantages
 1. Light weight： only 2kB makes it able to run on even the crappiest device
