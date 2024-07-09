@@ -1,11 +1,11 @@
 # yafiwg
-![image](https://github.com/xolyn/yafiwg/assets/118642042/9297a2f4-a174-4c71-961e-f198feca969b)
 
 >
 > A simple file index webpage generator for static webpage hosting services like Github Pages, Cloudflare R2,...
 >
 
 ## demo
+![image](https://github.com/xolyn/yafiwg/assets/118642042/9297a2f4-a174-4c71-961e-f198feca969b =250x250)
 click here for a [demo](https://xolyn.github.io/file_tree.html)
 
 ## use
@@ -22,7 +22,7 @@ where `path/to/start` indicates the folder you want to execute a "deep scan" of 
 ### advantages
 1. Light weight： only 2kB makes it able to run on even the crappiest device
 2. High compatibility： HTML code that removes the fancy styles and properties that are not supported by old browsers. According to [Can I Use](https://caniuse.com/?search=details):
-   > ![](https://caniuse.com/img/baseline/baseline-high-light.svg)Baseline
+   > ![](https://caniuse.com/img/baseline/baseline-high-light.svg =100x100)Baseline
    > 
    > Widely available across major browsers
 3. Clarity and accuracy： Although use simple HTML elements, files' hierarchical relationships are well displayed and easy to understand. Optimized scanning mechanism on nested folders and empty folders.
