@@ -1,4 +1,6 @@
 # yafiwg
+![image](https://github.com/xolyn/yafiwg/assets/118642042/9297a2f4-a174-4c71-961e-f198feca969b)
+
 >
 > A simple file index webpage generator for static webpage hosting services like Github Pages, Cloudflare R2,...
 >
