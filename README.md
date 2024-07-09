@@ -15,6 +15,8 @@ where `path/to/start` indicates the folder you want to execute a "deep scan" of 
 
 **The scanner will automatically ignore the `.git` folder and files within.** (Option to keep it will be added in future version)
 
+> An common use is to place the `yafiwg.py` file under your github page repo and execute (you can use scripts to automatically trigger) it everytime before you push your repo. It solves the regret of not being able to view and easily jump among all your files in your github repo or some cloud storage/hosting services.  
+
 ### advantages
 1. Light weight： only 2kB makes it able to run on even the crappiest device
 2. High compatibility： HTML code that removes the fancy styles and properties that are not supported by old browsers. According to [Can I Use](https://caniuse.com/?search=details):
