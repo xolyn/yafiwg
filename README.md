@@ -5,7 +5,7 @@
 >
 
 ## demo
-![image](https://github.com/xolyn/yafiwg/assets/118642042/9297a2f4-a174-4c71-961e-f198feca969b =250x250)
+<img src="https://github.com/xolyn/yafiwg/assets/118642042/9297a2f4-a174-4c71-961e-f198feca969b" width="250">
 click here for a [demo](https://xolyn.github.io/file_tree.html)
 
 ## use
